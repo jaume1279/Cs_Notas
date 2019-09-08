@@ -1,0 +1,7 @@
+D:\C#Projects\Notas\Notas\Notas\bin\Debug\Notas.exe.config
+D:\C#Projects\Notas\Notas\Notas\bin\Debug\Notas.exe
+D:\C#Projects\Notas\Notas\Notas\bin\Debug\Notas.pdb
+D:\C#Projects\Notas\Notas\Notas\obj\Debug\Notas.csprojAssemblyReference.cache
+D:\C#Projects\Notas\Notas\Notas\obj\Debug\Notas.csproj.CoreCompileInputs.cache
+D:\C#Projects\Notas\Notas\Notas\obj\Debug\Notas.exe
+D:\C#Projects\Notas\Notas\Notas\obj\Debug\Notas.pdb
