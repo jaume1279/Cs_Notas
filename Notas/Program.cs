@@ -11,6 +11,9 @@ namespace Notas
         static void Main(string[] args)
         {
             /* Comentari 978542 Accepted*/
+
+            /* Reaccepted */
+
             string nombre;
             double nota1, nota2, nota3;
             double promedio;
