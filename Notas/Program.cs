@@ -11,9 +11,6 @@ namespace Notas
         static void Main(string[] args)
         {
             /* Comentari 78542*/
-
-            /* Panic Error needs to be solved now */
-            /* PANIC SOLVED */
             string nombre;
             double nota1, nota2, nota3;
             double promedio;
