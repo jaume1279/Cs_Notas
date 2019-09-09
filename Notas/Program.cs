@@ -10,7 +10,7 @@ namespace Notas
     {
         static void Main(string[] args)
         {
-            /* Comentari 28547*/
+            /* Comentari 2*/
             string nombre;
             double nota1, nota2, nota3;
             double promedio;
